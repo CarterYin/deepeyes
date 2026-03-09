@@ -117,7 +117,7 @@ lark==1.2.2
 latex2sympy2_extended==1.10.1
 libcst==1.5.0
 libmambapy==1.5.10
-liger_kernel==0.5.2
+liger_kernel==0.7.0
 lightning-utilities==0.11.8
 linkify-it-py==2.0.3
 llguidance==0.7.20
