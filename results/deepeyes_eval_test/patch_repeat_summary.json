@@ -1,0 +1,36 @@
+{
+  "rows": [
+    {
+      "repeat": 1,
+      "tag": "repeat1",
+      "direct_attributes": 87.82608695652175,
+      "overall": 86.38743455497382,
+      "exists": true,
+      "path": "./results/deepeyes_eval_test/final_acc_repeat1.json"
+    },
+    {
+      "repeat": 2,
+      "tag": "repeat2",
+      "direct_attributes": 88.69565217391305,
+      "overall": 86.91099476439791,
+      "exists": true,
+      "path": "./results/deepeyes_eval_test/final_acc_repeat2.json"
+    },
+    {
+      "repeat": 4,
+      "tag": "repeat4",
+      "direct_attributes": 88.69565217391305,
+      "overall": 86.91099476439791,
+      "exists": true,
+      "path": "./results/deepeyes_eval_test/final_acc_repeat4.json"
+    },
+    {
+      "repeat": 8,
+      "tag": "repeat8",
+      "direct_attributes": 88.69565217391305,
+      "overall": 87.43455497382199,
+      "exists": true,
+      "path": "./results/deepeyes_eval_test/final_acc_repeat8.json"
+    }
+  ]
+}

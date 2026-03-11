@@ -1,0 +1,131 @@
+{
+    "direct_attributes": 90.43478260869566,
+    "relative_position": 82.89473684210526,
+    "overall": 87.43455497382199,
+    "error_nums": {
+        "direct_attributes": 0,
+        "relative_position": 0
+    },
+    "error_preds": [
+        {
+            "pred_ans": "B. The color of the Apple logo is white.",
+            "question": "What is the color of the Apple logo?",
+            "answer": "The color of the Apple logo is polychromatic."
+        },
+        {
+            "pred_ans": "B. The color of the straw is white.",
+            "question": "What is the color of the straw?",
+            "answer": "The color of the straw is black."
+        },
+        {
+            "pred_ans": "",
+            "question": "What is the color of the motorcycle?",
+            "answer": "The color of the motorcycle is black."
+        },
+        {
+            "pred_ans": "D. The color of the telephone is white.",
+            "question": "What is the color of the telephone?",
+            "answer": "The color of the telephone is orange."
+        },
+        {
+            "pred_ans": "B. The pose of the woman with yellow backpack is standing.",
+            "question": "What is the pose of the woman with yellow backpack?",
+            "answer": "The pose of the woman with yellow backpack is squatting."
+        },
+        {
+            "pred_ans": "C. The color of the cyclist's bag is red and blue.",
+            "question": "What is the color of the cyclist's bag?",
+            "answer": "The color of the cyclist's bag is orange and black."
+        },
+        {
+            "pred_ans": "B. The color of the helmet is white.",
+            "question": "What is the color of the helmet?",
+            "answer": "The color of the helmet is red."
+        },
+        {
+            "pred_ans": "C. The color of the guard's glove is black.",
+            "question": "What is the color of the guard's glove?",
+            "answer": "The color of the guard's glove is white."
+        },
+        {
+            "pred_ans": "C. The color of the woman's dress is white.",
+            "question": "What is the color of the woman's dress?",
+            "answer": "The color of the woman's dress is black."
+        },
+        {
+            "pred_ans": "B. The color of the flute is white.",
+            "question": "What is the color of the flute?",
+            "answer": "The color of the flute is black."
+        },
+        {
+            "pred_ans": "B. The color of the helmet is blue.",
+            "question": "What is the color of the helmet?",
+            "answer": "The color of the helmet is green."
+        },
+        {
+            "pred_ans": "B. The pillar box is on the left side of the telephone booth.",
+            "question": "Is the pillar box on the left or right side of the telephone booth?",
+            "answer": "The pillar box is on the right side of the telephone booth."
+        },
+        {
+            "pred_ans": "B. The bucket is on the left side of the plunger.",
+            "question": "Is the bucket on the left or right side of the plunger?",
+            "answer": "The bucket is on the right side of the plunger."
+        },
+        {
+            "pred_ans": "B. The trash can is on the right side of the black chair.",
+            "question": "Is the trash can on the left or right side of the black chair?",
+            "answer": "The trash can is on the left side of the black chair."
+        },
+        {
+            "pred_ans": "",
+            "question": "Is the white truck on the left or right side of the red truck?",
+            "answer": "The white truck is on the right side of the red truck."
+        },
+        {
+            "pred_ans": "B. The baby carriage is on the left side of the cone.",
+            "question": "Is the baby carriage on the left or right side of the cone?",
+            "answer": "The baby carriage is on the right side of the cone."
+        },
+        {
+            "pred_ans": "B. The motorcycle is on the right side of the street.",
+            "question": "Is the motorcycle on the left or right side of the street?",
+            "answer": "The motorcycle is on the left side of the street."
+        },
+        {
+            "pred_ans": "A. The seesaw is on the left side of the red vehicle.",
+            "question": "Is the seesaw on the left or right side of the red vehicle?",
+            "answer": "The seesaw is on the right side of the red vehicle."
+        },
+        {
+            "pred_ans": "B. The telephone booth is on the left side of the yellow van.",
+            "question": "Is the telephone booth on the left or right side of the yellow van?",
+            "answer": "The telephone booth is on the right side of the yellow van."
+        },
+        {
+            "pred_ans": "B. The red balloon is above the white balloon.",
+            "question": "Is the red balloon above or below the white balloon?",
+            "answer": "The red balloon is below the white balloon."
+        },
+        {
+            "pred_ans": "B. The volleyball is on the right side of the man with the white cap.",
+            "question": "Is the volleyball on the left or right side of the man with white cap?",
+            "answer": "The volleyball is on the left side of the man with white cap."
+        },
+        {
+            "pred_ans": "A. The soccer ball is on the left side of the water dispenser.",
+            "question": "Is the soccer ball on the left or right side of the water dispenser?",
+            "answer": "The soccer ball is on the right side of the water dispenser."
+        },
+        {
+            "pred_ans": "B. The soccer ball is on the right side of the long bench.",
+            "question": "Is the soccer ball on the left or right side of the long bench?",
+            "answer": "The soccer ball is on the left side of the long bench."
+        },
+        {
+            "pred_ans": "B. The bell is above the clock.",
+            "question": "Is the bell above or below the clock?",
+            "answer": "The bell is below the clock."
+        }
+    ]
+}
